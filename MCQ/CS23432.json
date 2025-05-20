@@ -1,0 +1,112 @@
+{
+  "UNIT I: Introduction to Software Engineering": [
+    {
+      "question": "What is a software process?",
+      "options": [
+        "A hardware installation routine",
+        "A set of related activities that leads to the production of a software product",
+        "A user manual",
+        "An Agile framework"
+      ],
+      "answer": "A set of related activities that leads to the production of a software product"
+    },
+    {
+      "question": "Which of the following is a specialized process model?",
+      "options": [
+        "Waterfall model",
+        "Spiral model",
+        "Prototyping model",
+        "Component-based development"
+      ],
+      "answer": "Component-based development"
+    }
+  ],
+  "UNIT II: Software Requirements": [
+    {
+      "question": "What is an Epic in Agile?",
+      "options": [
+        "A detailed technical requirement",
+        "A large body of work that can be broken down into smaller tasks",
+        "A non-functional requirement",
+        "A bug"
+      ],
+      "answer": "A large body of work that can be broken down into smaller tasks"
+    },
+    {
+      "question": "What is the purpose of Poker Planning Estimation?",
+      "options": [
+        "To plan marketing strategies",
+        "To estimate development time using team consensus",
+        "To organize code",
+        "To execute SQL queries"
+      ],
+      "answer": "To estimate development time using team consensus"
+    }
+  ],
+  "UNIT III: System Modeling": [
+    {
+      "question": "Which model represents the dynamic behavior of a system?",
+      "options": [
+        "Context Model",
+        "Structural Model",
+        "Behavioral Model",
+        "Entity Relationship Model"
+      ],
+      "answer": "Behavioral Model"
+    },
+    {
+      "question": "What does DFD stand for?",
+      "options": [
+        "Data File Diagram",
+        "Database Flow Diagram",
+        "Data Flow Diagram",
+        "Data Function Design"
+      ],
+      "answer": "Data Flow Diagram"
+    }
+  ],
+  "UNIT IV: Construction Activities": [
+    {
+      "question": "Which tool is widely used in Azure for creating software pipelines?",
+      "options": [
+        "Azure DevOps",
+        "Azure Virtual Machines",
+        "Azure SQL",
+        "Azure Storage"
+      ],
+      "answer": "Azure DevOps"
+    },
+    {
+      "question": "What is the role of a build pipeline?",
+      "options": [
+        "To connect databases",
+        "To create, test, and deploy code automatically",
+        "To monitor network activity",
+        "To design UI layouts"
+      ],
+      "answer": "To create, test, and deploy code automatically"
+    }
+  ],
+  "UNIT V: Software Configuration Management": [
+    {
+      "question": "What is the purpose of version control systems?",
+      "options": [
+        "To generate software keys",
+        "To maintain different versions of software source code",
+        "To create diagrams",
+        "To write test cases"
+      ],
+      "answer": "To maintain different versions of software source code"
+    },
+    {
+      "question": "Which of the following is a popular version control tool?",
+      "options": [
+        "Git",
+        "Power BI",
+        "Notepad++",
+        "SQL Server"
+      ],
+      "answer": "Git"
+    }
+  ]
+}

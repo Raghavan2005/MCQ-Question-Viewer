@@ -1,0 +1,512 @@
+    {
+        "UNIT I Operating Systems Overview": [
+            {
+                "question": "Which of the following is not a function of an operating system?",
+                "options": [
+                    "Process management",
+                    "Compiler design",
+                    "Memory management",
+                    "File system management"
+                ],
+                "answer": "Compiler design"
+            },
+            {
+                "question": "What is the primary purpose of an operating system?",
+                "options": [
+                    "Make the computer easier to use",
+                    "Allow users to run applications",
+                    "Manage hardware resources",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "In a computer system, the kernel is:",
+                "options": [
+                    "A software tool to write system calls",
+                    "The core part of the operating system",
+                    "A hardware component",
+                    "Used for booting the OS"
+                ],
+                "answer": "The core part of the operating system"
+            },
+            {
+                "question": "Which of the following is not an operating system?",
+                "options": [
+                    "Linux",
+                    "Windows",
+                    "Oracle",
+                    "MacOS"
+                ],
+                "answer": "Oracle"
+            },
+            {
+                "question": "Which component of the OS handles protection and security?",
+                "options": [
+                    "Shell",
+                    "Kernel",
+                    "Resource manager",
+                    "Security subsystem"
+                ],
+                "answer": "Security subsystem"
+            },
+            {
+                "question": "Virtualization is primarily used for:",
+                "options": [
+                    "User authentication",
+                    "Running multiple OS on the same hardware",
+                    "File management",
+                    "Compiler execution"
+                ],
+                "answer": "Running multiple OS on the same hardware"
+            },
+            {
+                "question": "Which system component provides user interaction with the OS?",
+                "options": [
+                    "Kernel",
+                    "System call interface",
+                    "User interface",
+                    "Shell"
+                ],
+                "answer": "Shell"
+            },
+            {
+                "question": "Linkers are used to:",
+                "options": [
+                    "Compile source code",
+                    "Resolve addresses",
+                    "Manage memory",
+                    "Load system files"
+                ],
+                "answer": "Resolve addresses"
+            },
+            {
+                "question": "Booting an OS involves:",
+                "options": [
+                    "Installing applications",
+                    "Starting the OS",
+                    "Shutting down the OS",
+                    "Writing data to disk"
+                ],
+                "answer": "Starting the OS"
+            },
+            {
+                "question": "Which of the following is a type of system call?",
+                "options": [
+                    "create()",
+                    "print()",
+                    "execute()",
+                    "input()"
+                ],
+                "answer": "create()"
+            }
+        ],
+        "UNIT II \u2013 Process Management": [
+            {
+                "question": "Which of the following is not a valid process state?",
+                "options": [
+                    "New",
+                    "Running",
+                    "Old",
+                    "Waiting"
+                ],
+                "answer": "Old"
+            },
+            {
+                "question": "Which of the following CPU scheduling algorithms may lead to starvation?",
+                "options": [
+                    "FCFS",
+                    "Round Robin",
+                    "SJF",
+                    "Multilevel Queue"
+                ],
+                "answer": "SJF"
+            },
+            {
+                "question": "What is Inter Process Communication (IPC)?",
+                "options": [
+                    "Communication between OS and user",
+                    "Communication between applications",
+                    "Communication between two processes",
+                    "Communication between hardware and software"
+                ],
+                "answer": "Communication between two processes"
+            },
+            {
+                "question": "Which is not a multithreading model?",
+                "options": [
+                    "Many-to-One",
+                    "One-to-One",
+                    "Many-to-Many",
+                    "One-to-Many"
+                ],
+                "answer": "One-to-Many"
+            },
+            {
+                "question": "Round Robin scheduling is most suitable for:",
+                "options": [
+                    "Batch systems",
+                    "Real-time systems",
+                    "Time-sharing systems",
+                    "Embedded systems"
+                ],
+                "answer": "Time-sharing systems"
+            },
+            {
+                "question": "Which data structure is used by the OS to manage processes?",
+                "options": [
+                    "Stack",
+                    "Queue",
+                    "Process Control Block",
+                    "Heap"
+                ],
+                "answer": "Process Control Block"
+            },
+            {
+                "question": "Which is not a thread benefit?",
+                "options": [
+                    "Responsiveness",
+                    "Resource sharing",
+                    "Scalability",
+                    "Security"
+                ],
+                "answer": "Security"
+            },
+            {
+                "question": "Multilevel Feedback Queue scheduling:",
+                "options": [
+                    "Is non-preemptive",
+                    "Allows processes to move between queues",
+                    "Always favors CPU-bound processes",
+                    "Uses only one queue"
+                ],
+                "answer": "Allows processes to move between queues"
+            },
+            {
+                "question": "Which of the following is true about user-level threads?",
+                "options": [
+                    "Managed by OS",
+                    "Fast context switch",
+                    "Can run on multiple cores",
+                    "Visible to the kernel"
+                ],
+                "answer": "Fast context switch"
+            },
+            {
+                "question": "Shared memory IPC requires:",
+                "options": [
+                    "Message passing",
+                    "Common memory space",
+                    "Signals",
+                    "File system"
+                ],
+                "answer": "Common memory space"
+            }
+        ],
+        "UNIT III \u2013 Process Synchronization and Deadlocks": [
+            {
+                "question": "Which of the following is not a classical problem of synchronization?",
+                "options": [
+                    "Readers-Writers",
+                    "Producer-Consumer",
+                    "Dining Philosophers",
+                    "File Locking"
+                ],
+                "answer": "File Locking"
+            },
+            {
+                "question": "Which of the following ensures mutual exclusion?",
+                "options": [
+                    "Monitor",
+                    "Semaphore",
+                    "Peterson\u2019s Algorithm",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "A deadlock cannot occur if:",
+                "options": [
+                    "There is no mutual exclusion",
+                    "Processes hold resources",
+                    "There is circular wait",
+                    "Processes wait indefinitely"
+                ],
+                "answer": "There is no mutual exclusion"
+            },
+            {
+                "question": "What are the four conditions of deadlock?",
+                "options": [
+                    "Mutual exclusion, Hold and wait, No preemption, Circular wait",
+                    "Request, Release, Wait, Halt",
+                    "Block, Wait, Ready, Execute",
+                    "None"
+                ],
+                "answer": "Mutual exclusion, Hold and wait, No preemption, Circular wait"
+            },
+            {
+                "question": "Which method is used for deadlock prevention?",
+                "options": [
+                    "Avoid circular wait",
+                    "Banker\u2019s algorithm",
+                    "Timeouts",
+                    "Rollback"
+                ],
+                "answer": "Avoid circular wait"
+            },
+            {
+                "question": "A semaphore is:",
+                "options": [
+                    "Hardware device",
+                    "A program",
+                    "Synchronization tool",
+                    "Process scheduler"
+                ],
+                "answer": "Synchronization tool"
+            },
+            {
+                "question": "Which is a busy-waiting solution to critical section?",
+                "options": [
+                    "Mutex",
+                    "Monitors",
+                    "Peterson\u2019s algorithm",
+                    "Semaphores"
+                ],
+                "answer": "Peterson\u2019s algorithm"
+            },
+            {
+                "question": "What does the Banker's algorithm check?",
+                "options": [
+                    "CPU usage",
+                    "Memory allocation",
+                    "Safe state",
+                    "Thread status"
+                ],
+                "answer": "Safe state"
+            },
+            {
+                "question": "Which of these avoids deadlock?",
+                "options": [
+                    "Ignoring it",
+                    "Allowing circular wait",
+                    "Ordering resources",
+                    "Holding resources"
+                ],
+                "answer": "Ordering resources"
+            },
+            {
+                "question": "Deadlock detection algorithm checks:",
+                "options": [
+                    "Availability matrix",
+                    "Request matrix",
+                    "Allocation matrix",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            }
+        ],
+        "UNIT IV \u2013 Memory Management": [
+            {
+                "question": "Paging eliminates the need for:",
+                "options": [
+                    "Contiguous allocation",
+                    "Non-contiguous allocation",
+                    "Page table",
+                    "Virtual memory"
+                ],
+                "answer": "Contiguous allocation"
+            },
+            {
+                "question": "Which page replacement algorithm suffers from Belady\u2019s anomaly?",
+                "options": [
+                    "FIFO",
+                    "LRU",
+                    "Optimal",
+                    "None"
+                ],
+                "answer": "FIFO"
+            },
+            {
+                "question": "Virtual memory allows:",
+                "options": [
+                    "Execution of large programs",
+                    "Direct hardware access",
+                    "Faster cache access",
+                    "Avoiding paging"
+                ],
+                "answer": "Execution of large programs"
+            },
+            {
+                "question": "Thrashing occurs when:",
+                "options": [
+                    "Too many pages are swapped",
+                    "RAM is unused",
+                    "Files are too large",
+                    "Stack overflows"
+                ],
+                "answer": "Too many pages are swapped"
+            },
+            {
+                "question": "Segmentation differs from paging by:",
+                "options": [
+                    "Fixed size units",
+                    "Variable size units",
+                    "Not using tables",
+                    "Being slower"
+                ],
+                "answer": "Variable size units"
+            },
+            {
+                "question": "The purpose of the page table is to:",
+                "options": [
+                    "Store data",
+                    "Manage files",
+                    "Map virtual to physical addresses",
+                    "Manage cache"
+                ],
+                "answer": "Map virtual to physical addresses"
+            },
+            {
+                "question": "LRU stands for:",
+                "options": [
+                    "Least Recently Used",
+                    "Low Resource Utilization",
+                    "Last Resource Used",
+                    "Least RAM Usage"
+                ],
+                "answer": "Least Recently Used"
+            },
+            {
+                "question": "Page fault occurs when:",
+                "options": [
+                    "Page is not in memory",
+                    "Page is in memory",
+                    "Disk fails",
+                    "RAM is full"
+                ],
+                "answer": "Page is not in memory"
+            },
+            {
+                "question": "Which is not a disk scheduling algorithm?",
+                "options": [
+                    "SSTF",
+                    "SCAN",
+                    "LOOK",
+                    "FCFS"
+                ],
+                "answer": "FCFS"
+            },
+            {
+                "question": "Demand paging loads pages:",
+                "options": [
+                    "At startup",
+                    "When referenced",
+                    "In background",
+                    "All at once"
+                ],
+                "answer": "When referenced"
+            }
+        ],
+        "UNIT V \u2013 File Management": [
+            {
+                "question": "Which access method is used for CDs?",
+                "options": [
+                    "Sequential",
+                    "Direct",
+                    "Indexed",
+                    "All"
+                ],
+                "answer": "Sequential"
+            },
+            {
+                "question": "What is a virtual file system?",
+                "options": [
+                    "Manages hardware",
+                    "Abstract layer over file systems",
+                    "RAM storage",
+                    "Kernel process"
+                ],
+                "answer": "Abstract layer over file systems"
+            },
+            {
+                "question": "Discretionary Access Control (DAC) is based on:",
+                "options": [
+                    "Roles",
+                    "Ownership",
+                    "Groups",
+                    "Policy"
+                ],
+                "answer": "Ownership"
+            },
+            {
+                "question": "Mandatory Access Control (MAC) is:",
+                "options": [
+                    "User-defined",
+                    "Admin-enforced",
+                    "Flexible",
+                    "Optional"
+                ],
+                "answer": "Admin-enforced"
+            },
+            {
+                "question": "Which method uses index blocks?",
+                "options": [
+                    "Contiguous",
+                    "Linked",
+                    "Indexed",
+                    "Hybrid"
+                ],
+                "answer": "Indexed"
+            },
+            {
+                "question": "Which OS uses inode structure?",
+                "options": [
+                    "Windows",
+                    "Linux",
+                    "DOS",
+                    "Unix"
+                ],
+                "answer": "Linux"
+            },
+            {
+                "question": "Directory implementation can be:",
+                "options": [
+                    "Linear list",
+                    "Hash table",
+                    "Tree",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "What does the 'chmod' command in Linux do?",
+                "options": [
+                    "Change owner",
+                    "Change directory",
+                    "Change file permissions",
+                    "Change filename"
+                ],
+                "answer": "Change file permissions"
+            },
+            {
+                "question": "Which of the following is a file allocation method?",
+                "options": [
+                    "Contiguous",
+                    "Hashed",
+                    "Pointer-based",
+                    "Distributed"
+                ],
+                "answer": "Contiguous"
+            },
+            {
+                "question": "Linux file system uses:",
+                "options": [
+                    "NTFS",
+                    "EXT",
+                    "FAT32",
+                    "HFS+"
+                ],
+                "answer": "EXT"
+            }
+        ]
+    }
