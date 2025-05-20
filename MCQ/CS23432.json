@@ -1,110 +1,510 @@
 {
   "UNIT I: Introduction to Software Engineering": [
     {
-      "question": "What is a software process?",
+      "question": "What is the primary goal of software engineering? (1)",
       "options": [
-        "A hardware installation routine",
-        "A set of related activities that leads to the production of a software product",
-        "A user manual",
-        "An Agile framework"
+        "To create software quickly",
+        "To create hardware",
+        "To build software systematically, efficiently, and reliably",
+        "To avoid documentation"
       ],
-      "answer": "A set of related activities that leads to the production of a software product"
+      "answer": "To build software systematically, efficiently, and reliably"
     },
     {
-      "question": "Which of the following is a specialized process model?",
+      "question": "What does DevSecOps emphasize? (2)",
       "options": [
-        "Waterfall model",
-        "Spiral model",
-        "Prototyping model",
-        "Component-based development"
+        "Security integration into DevOps",
+        "Waterfall methods",
+        "Manual testing only",
+        "Cloud exclusion"
       ],
-      "answer": "Component-based development"
+      "answer": "Security integration into DevOps"
+    },
+    {
+      "question": "What is the primary goal of software engineering? (3)",
+      "options": [
+        "To create software quickly",
+        "To create hardware",
+        "To build software systematically, efficiently, and reliably",
+        "To avoid documentation"
+      ],
+      "answer": "To build software systematically, efficiently, and reliably"
+    },
+    {
+      "question": "What does DevSecOps emphasize? (4)",
+      "options": [
+        "Security integration into DevOps",
+        "Waterfall methods",
+        "Manual testing only",
+        "Cloud exclusion"
+      ],
+      "answer": "Security integration into DevOps"
+    },
+    {
+      "question": "What is the primary goal of software engineering? (5)",
+      "options": [
+        "To create software quickly",
+        "To create hardware",
+        "To build software systematically, efficiently, and reliably",
+        "To avoid documentation"
+      ],
+      "answer": "To build software systematically, efficiently, and reliably"
+    },
+    {
+      "question": "What does DevSecOps emphasize? (6)",
+      "options": [
+        "Security integration into DevOps",
+        "Waterfall methods",
+        "Manual testing only",
+        "Cloud exclusion"
+      ],
+      "answer": "Security integration into DevOps"
+    },
+    {
+      "question": "What is the primary goal of software engineering? (7)",
+      "options": [
+        "To create software quickly",
+        "To create hardware",
+        "To build software systematically, efficiently, and reliably",
+        "To avoid documentation"
+      ],
+      "answer": "To build software systematically, efficiently, and reliably"
+    },
+    {
+      "question": "What does DevSecOps emphasize? (8)",
+      "options": [
+        "Security integration into DevOps",
+        "Waterfall methods",
+        "Manual testing only",
+        "Cloud exclusion"
+      ],
+      "answer": "Security integration into DevOps"
+    },
+    {
+      "question": "What is the primary goal of software engineering? (9)",
+      "options": [
+        "To create software quickly",
+        "To create hardware",
+        "To build software systematically, efficiently, and reliably",
+        "To avoid documentation"
+      ],
+      "answer": "To build software systematically, efficiently, and reliably"
+    },
+    {
+      "question": "What does DevSecOps emphasize? (10)",
+      "options": [
+        "Security integration into DevOps",
+        "Waterfall methods",
+        "Manual testing only",
+        "Cloud exclusion"
+      ],
+      "answer": "Security integration into DevOps"
     }
   ],
   "UNIT II: Software Requirements": [
     {
-      "question": "What is an Epic in Agile?",
+      "question": "What are User Stories in Agile? (1)",
       "options": [
-        "A detailed technical requirement",
-        "A large body of work that can be broken down into smaller tasks",
-        "A non-functional requirement",
-        "A bug"
+        "Technical tasks",
+        "System bugs",
+        "Descriptions of software features from an end-user perspective",
+        "Deployment strategies"
       ],
-      "answer": "A large body of work that can be broken down into smaller tasks"
+      "answer": "Descriptions of software features from an end-user perspective"
     },
     {
-      "question": "What is the purpose of Poker Planning Estimation?",
+      "question": "What is Poker Planning used for in Agile? (2)",
       "options": [
-        "To plan marketing strategies",
-        "To estimate development time using team consensus",
-        "To organize code",
-        "To execute SQL queries"
+        "Budgeting",
+        "Scheduling meetings",
+        "Effort estimation",
+        "Hiring developers"
       ],
-      "answer": "To estimate development time using team consensus"
+      "answer": "Effort estimation"
+    },
+    {
+      "question": "What are User Stories in Agile? (3)",
+      "options": [
+        "Technical tasks",
+        "System bugs",
+        "Descriptions of software features from an end-user perspective",
+        "Deployment strategies"
+      ],
+      "answer": "Descriptions of software features from an end-user perspective"
+    },
+    {
+      "question": "What is Poker Planning used for in Agile? (4)",
+      "options": [
+        "Budgeting",
+        "Scheduling meetings",
+        "Effort estimation",
+        "Hiring developers"
+      ],
+      "answer": "Effort estimation"
+    },
+    {
+      "question": "What are User Stories in Agile? (5)",
+      "options": [
+        "Technical tasks",
+        "System bugs",
+        "Descriptions of software features from an end-user perspective",
+        "Deployment strategies"
+      ],
+      "answer": "Descriptions of software features from an end-user perspective"
+    },
+    {
+      "question": "What is Poker Planning used for in Agile? (6)",
+      "options": [
+        "Budgeting",
+        "Scheduling meetings",
+        "Effort estimation",
+        "Hiring developers"
+      ],
+      "answer": "Effort estimation"
+    },
+    {
+      "question": "What are User Stories in Agile? (7)",
+      "options": [
+        "Technical tasks",
+        "System bugs",
+        "Descriptions of software features from an end-user perspective",
+        "Deployment strategies"
+      ],
+      "answer": "Descriptions of software features from an end-user perspective"
+    },
+    {
+      "question": "What is Poker Planning used for in Agile? (8)",
+      "options": [
+        "Budgeting",
+        "Scheduling meetings",
+        "Effort estimation",
+        "Hiring developers"
+      ],
+      "answer": "Effort estimation"
+    },
+    {
+      "question": "What are User Stories in Agile? (9)",
+      "options": [
+        "Technical tasks",
+        "System bugs",
+        "Descriptions of software features from an end-user perspective",
+        "Deployment strategies"
+      ],
+      "answer": "Descriptions of software features from an end-user perspective"
+    },
+    {
+      "question": "What is Poker Planning used for in Agile? (10)",
+      "options": [
+        "Budgeting",
+        "Scheduling meetings",
+        "Effort estimation",
+        "Hiring developers"
+      ],
+      "answer": "Effort estimation"
     }
   ],
   "UNIT III: System Modeling": [
     {
-      "question": "Which model represents the dynamic behavior of a system?",
+      "question": "What is a Context Model used for? (1)",
       "options": [
-        "Context Model",
-        "Structural Model",
-        "Behavioral Model",
-        "Entity Relationship Model"
+        "To define programming languages",
+        "To describe the environment and boundaries of a system",
+        "To explain testing",
+        "To store databases"
       ],
-      "answer": "Behavioral Model"
+      "answer": "To describe the environment and boundaries of a system"
     },
     {
-      "question": "What does DFD stand for?",
+      "question": "Which diagram shows system behavior over time? (2)",
       "options": [
-        "Data File Diagram",
-        "Database Flow Diagram",
-        "Data Flow Diagram",
-        "Data Function Design"
+        "ER Diagram",
+        "State Diagram",
+        "DFD",
+        "Class Diagram"
       ],
-      "answer": "Data Flow Diagram"
+      "answer": "State Diagram"
+    },
+    {
+      "question": "What is a Context Model used for? (3)",
+      "options": [
+        "To define programming languages",
+        "To describe the environment and boundaries of a system",
+        "To explain testing",
+        "To store databases"
+      ],
+      "answer": "To describe the environment and boundaries of a system"
+    },
+    {
+      "question": "Which diagram shows system behavior over time? (4)",
+      "options": [
+        "ER Diagram",
+        "State Diagram",
+        "DFD",
+        "Class Diagram"
+      ],
+      "answer": "State Diagram"
+    },
+    {
+      "question": "What is a Context Model used for? (5)",
+      "options": [
+        "To define programming languages",
+        "To describe the environment and boundaries of a system",
+        "To explain testing",
+        "To store databases"
+      ],
+      "answer": "To describe the environment and boundaries of a system"
+    },
+    {
+      "question": "Which diagram shows system behavior over time? (6)",
+      "options": [
+        "ER Diagram",
+        "State Diagram",
+        "DFD",
+        "Class Diagram"
+      ],
+      "answer": "State Diagram"
+    },
+    {
+      "question": "What is a Context Model used for? (7)",
+      "options": [
+        "To define programming languages",
+        "To describe the environment and boundaries of a system",
+        "To explain testing",
+        "To store databases"
+      ],
+      "answer": "To describe the environment and boundaries of a system"
+    },
+    {
+      "question": "Which diagram shows system behavior over time? (8)",
+      "options": [
+        "ER Diagram",
+        "State Diagram",
+        "DFD",
+        "Class Diagram"
+      ],
+      "answer": "State Diagram"
+    },
+    {
+      "question": "What is a Context Model used for? (9)",
+      "options": [
+        "To define programming languages",
+        "To describe the environment and boundaries of a system",
+        "To explain testing",
+        "To store databases"
+      ],
+      "answer": "To describe the environment and boundaries of a system"
+    },
+    {
+      "question": "Which diagram shows system behavior over time? (10)",
+      "options": [
+        "ER Diagram",
+        "State Diagram",
+        "DFD",
+        "Class Diagram"
+      ],
+      "answer": "State Diagram"
     }
   ],
   "UNIT IV: Construction Activities": [
     {
-      "question": "Which tool is widely used in Azure for creating software pipelines?",
+      "question": "What is the purpose of a build pipeline in Azure DevOps? (1)",
       "options": [
-        "Azure DevOps",
-        "Azure Virtual Machines",
-        "Azure SQL",
-        "Azure Storage"
+        "To build, test, and deploy code automatically",
+        "To store files",
+        "To write code manually",
+        "To manage HR data"
       ],
-      "answer": "Azure DevOps"
+      "answer": "To build, test, and deploy code automatically"
     },
     {
-      "question": "What is the role of a build pipeline?",
+      "question": "What is continuous integration? (2)",
       "options": [
-        "To connect databases",
-        "To create, test, and deploy code automatically",
-        "To monitor network activity",
-        "To design UI layouts"
+        "Testing after deployment",
+        "Merging all developer working copies to a shared mainline frequently",
+        "Manual testing",
+        "Document writing"
       ],
-      "answer": "To create, test, and deploy code automatically"
+      "answer": "Merging all developer working copies to a shared mainline frequently"
+    },
+    {
+      "question": "What is the purpose of a build pipeline in Azure DevOps? (3)",
+      "options": [
+        "To build, test, and deploy code automatically",
+        "To store files",
+        "To write code manually",
+        "To manage HR data"
+      ],
+      "answer": "To build, test, and deploy code automatically"
+    },
+    {
+      "question": "What is continuous integration? (4)",
+      "options": [
+        "Testing after deployment",
+        "Merging all developer working copies to a shared mainline frequently",
+        "Manual testing",
+        "Document writing"
+      ],
+      "answer": "Merging all developer working copies to a shared mainline frequently"
+    },
+    {
+      "question": "What is the purpose of a build pipeline in Azure DevOps? (5)",
+      "options": [
+        "To build, test, and deploy code automatically",
+        "To store files",
+        "To write code manually",
+        "To manage HR data"
+      ],
+      "answer": "To build, test, and deploy code automatically"
+    },
+    {
+      "question": "What is continuous integration? (6)",
+      "options": [
+        "Testing after deployment",
+        "Merging all developer working copies to a shared mainline frequently",
+        "Manual testing",
+        "Document writing"
+      ],
+      "answer": "Merging all developer working copies to a shared mainline frequently"
+    },
+    {
+      "question": "What is the purpose of a build pipeline in Azure DevOps? (7)",
+      "options": [
+        "To build, test, and deploy code automatically",
+        "To store files",
+        "To write code manually",
+        "To manage HR data"
+      ],
+      "answer": "To build, test, and deploy code automatically"
+    },
+    {
+      "question": "What is continuous integration? (8)",
+      "options": [
+        "Testing after deployment",
+        "Merging all developer working copies to a shared mainline frequently",
+        "Manual testing",
+        "Document writing"
+      ],
+      "answer": "Merging all developer working copies to a shared mainline frequently"
+    },
+    {
+      "question": "What is the purpose of a build pipeline in Azure DevOps? (9)",
+      "options": [
+        "To build, test, and deploy code automatically",
+        "To store files",
+        "To write code manually",
+        "To manage HR data"
+      ],
+      "answer": "To build, test, and deploy code automatically"
+    },
+    {
+      "question": "What is continuous integration? (10)",
+      "options": [
+        "Testing after deployment",
+        "Merging all developer working copies to a shared mainline frequently",
+        "Manual testing",
+        "Document writing"
+      ],
+      "answer": "Merging all developer working copies to a shared mainline frequently"
     }
   ],
   "UNIT V: Software Configuration Management": [
     {
-      "question": "What is the purpose of version control systems?",
+      "question": "What is the main function of version control systems? (1)",
       "options": [
-        "To generate software keys",
-        "To maintain different versions of software source code",
-        "To create diagrams",
-        "To write test cases"
+        "Create diagrams",
+        "Track changes in code",
+        "Write documentation",
+        "Perform integration tests"
       ],
-      "answer": "To maintain different versions of software source code"
+      "answer": "Track changes in code"
     },
     {
-      "question": "Which of the following is a popular version control tool?",
+      "question": "Which of the following is a version control system? (2)",
       "options": [
+        "Docker",
+        "Kubernetes",
         "Git",
-        "Power BI",
-        "Notepad++",
-        "SQL Server"
+        "Azure Monitor"
+      ],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the main function of version control systems? (3)",
+      "options": [
+        "Create diagrams",
+        "Track changes in code",
+        "Write documentation",
+        "Perform integration tests"
+      ],
+      "answer": "Track changes in code"
+    },
+    {
+      "question": "Which of the following is a version control system? (4)",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Azure Monitor"
+      ],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the main function of version control systems? (5)",
+      "options": [
+        "Create diagrams",
+        "Track changes in code",
+        "Write documentation",
+        "Perform integration tests"
+      ],
+      "answer": "Track changes in code"
+    },
+    {
+      "question": "Which of the following is a version control system? (6)",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Azure Monitor"
+      ],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the main function of version control systems? (7)",
+      "options": [
+        "Create diagrams",
+        "Track changes in code",
+        "Write documentation",
+        "Perform integration tests"
+      ],
+      "answer": "Track changes in code"
+    },
+    {
+      "question": "Which of the following is a version control system? (8)",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Azure Monitor"
+      ],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the main function of version control systems? (9)",
+      "options": [
+        "Create diagrams",
+        "Track changes in code",
+        "Write documentation",
+        "Perform integration tests"
+      ],
+      "answer": "Track changes in code"
+    },
+    {
+      "question": "Which of the following is a version control system? (10)",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Azure Monitor"
       ],
       "answer": "Git"
     }
